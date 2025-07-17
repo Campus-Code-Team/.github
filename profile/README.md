@@ -11,7 +11,9 @@
 
 <div align="center">
 
-# 🕷 Campus Code Team 🕷
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/527640635101151253/1395277000171720754/image-removebg-preview.png?ex=6879dc77&is=68788af7&hm=2d3d3e54019fd98127f616aac1d7e8e6eec69a66581de3c751c00921d1bf6cb5&=&format=webp&quality=lossless" height="150" alt="Campus Code Team Logo" />
+</div>
 
 ### Uma equipe colaborativa de desenvolvedores e designers construindo soluções inovadoras
 
