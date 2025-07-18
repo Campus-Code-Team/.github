@@ -21,7 +21,7 @@
 
 ## Sobre Nós
 
-A **Campus Code Team** é uma organização composta por 9 membros apaixonados por tecnologia e inovação. Somos uma equipe de estudantes e profissionais trabalhando juntos para criar projetos de alto impacto, com foco em aprendizado, trabalho em equipe e boas práticas de desenvolvimento. Nosso objetivo é desenvolver soluções que preparem nossos membros para o mercado de trabalho, simulando ambientes profissionais reais.
+A **Campus Code Team** é uma organização composta por 8 membros apaixonados por tecnologia e inovação. Somos uma equipe de estudantes e profissionais trabalhando juntos para criar projetos de alto impacto, com foco em aprendizado, trabalho em equipe e boas práticas de desenvolvimento. Nosso objetivo é desenvolver soluções que preparem nossos membros para o mercado de trabalho, simulando ambientes profissionais reais.
 
 ## Projeto em Destaque
 
