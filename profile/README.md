@@ -31,7 +31,6 @@ A **Campus Code Team** é uma organização composta por 9 membros apaixonados p
 
 ### Tech-Lead
 * [Matheus Cunha](https://github.com/MathCunha16) – Fundador e Tech-Lead
-* [Silvio Vidal](https://github.com/PSilvioVidal) – Tech-Lead
 
 ### Back-end
 * [Matheus Cunha](https://github.com/MathCunha16) – Desenvolvedor Back-end
