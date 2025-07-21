@@ -33,8 +33,8 @@ A **Campus Code Team** é uma organização composta por 8 membros apaixonados p
 * [Matheus Cunha](https://github.com/MathCunha16) – Fundador & Project-Manager
 
 ### Back-end
-* [Matheus Cunha](https://github.com/MathCunha16) – Desenvolvedor Back-end
 * [Lucas Virmond](https://github.com/lucasvir) – Desenvolvedor Back-end & Tech-lead  
+* [Matheus Cunha](https://github.com/MathCunha16) – Desenvolvedor Back-end
 * [Lucas Silverio](https://github.com/lukasilverio94) – Desenvolvedor Back-end
 * [Luis Americo](https://github.com/oluiamerico) – Desenvolvedor Back-end
 
