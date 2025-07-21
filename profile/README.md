@@ -29,7 +29,7 @@ A **Campus Code Team** é uma organização composta por 8 membros apaixonados p
 
 ## Nossa Equipe
 
-### Tech-Lead
+### Project-Manager
 * [Matheus Cunha](https://github.com/MathCunha16) – Fundador & Project-Manager
 
 ### Back-end
