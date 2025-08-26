@@ -12,7 +12,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/527640635101151253/1395277000171720754/image-removebg-preview.png?ex=6879dc77&is=68788af7&hm=2d3d3e54019fd98127f616aac1d7e8e6eec69a66581de3c751c00921d1bf6cb5&=&format=webp&quality=lossless" height="150" alt="Campus Code Team Logo" />
+  <h1>🕷 Campus Code Team 🕷</h1> 
 </div>
 
 ### Uma equipe colaborativa de desenvolvedores e designers construindo soluções inovadoras
@@ -39,7 +39,7 @@ A **Campus Code Team** é uma organização composta por 8 membros apaixonados p
 * [Luis Americo](https://github.com/oluiamerico) – Desenvolvedor Back-end
 
 ### Front-end
-* [Vinicius Andrade](https://github.com/dadedeandrade) – Desenvolvedor Front-end & Tech-lead 
+* [Sebastião Luvumbo](https://github.com/SebastiaoBLuvumbo) – Desenvolvedor Front-end & Tech-lead 
 * [Wellington Vieira](https://github.com/wellingtonVieiraSantos) – Desenvolvedor Front-end
 * [Henrique Araújo](https://github.com/Henrique8878) – Desenvolvedor Front-end
 
@@ -49,7 +49,7 @@ A **Campus Code Team** é uma organização composta por 8 membros apaixonados p
 ## Contato
 
 <div align="center">
-  <a href="mailto:matheuscunhaprado@gmail.com" target="_blank">
+  <a href="mailto:campuscodeteam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://github.com/Campus-Code-Team" target="_blank">
