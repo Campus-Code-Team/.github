@@ -37,7 +37,7 @@ The **Campus Code Team** is an organization composed of 9 members passionate abo
 * [Luis Americo](https://github.com/oluiamerico) – Back-end Developer
 
 ### Front-end
-* [Vinicius Andrade](https://github.com/dadedeandrade) – Front-end Developer & Tech-lead
+* [Sebastião Luvumbo](https://github.com/SebastiaoBLuvumbo) – Front-end Developer & Tech-lead
 * [Wellington Vieira](https://github.com/wellingtonVieiraSantos) – Front-end Developer
 * [Henrique Araújo](https://github.com/Henrique8878) – Front-end Developer
 
@@ -47,7 +47,7 @@ The **Campus Code Team** is an organization composed of 9 members passionate abo
 ## Contact
 
 <div align="center">
-  <a href="mailto:matheuscunhaprado@gmail.com" target="_blank">
+  <a href="mailto:campuscodeteam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://github.com/Campus-Code-Team" target="_blank">
